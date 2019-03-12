@@ -1,0 +1,19 @@
+
+
+body {
+  postion: relative;
+  background: url(header.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  background-repeat: no-repeat;
+}
+
+.col-4 {
+  background: #752800 !important;
+}
+
+.row-height {
+  text-align: center;
+  
+}
