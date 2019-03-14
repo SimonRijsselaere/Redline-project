@@ -51,3 +51,8 @@ h2 {
 .container-fluid {
   height: 11vw;
 }
+
+.jumbotron {
+    padding: 0.1em;
+    margin-bottom: 0;
+}
