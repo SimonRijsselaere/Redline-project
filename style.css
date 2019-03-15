@@ -60,7 +60,12 @@ h2 {
     background-color: #6F5949;
 }
 
-.contact {
+.btn, .contact {
   color: #6F5949;
   background-color: white !important;
+  border: solid 0.4em #6F5949 !important;
+}
+
+.border {
+  border: solid 0.4em white !important;
 }
