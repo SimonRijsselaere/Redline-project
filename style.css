@@ -15,7 +15,7 @@ body {
 }
 
 .info {
-  background: #752800 !important;
+  background: #6F5949 !important;
 }
 
 .row-height {
@@ -23,7 +23,7 @@ body {
 }
 
 h2 {
-  background-color: #752800;
+  background-color: #6F5949;
 }
 .card-img-top {
     width: 100%;
@@ -57,5 +57,10 @@ h2 {
 .jumbotron {
     padding: 0.1em;
     margin-bottom: 0;
-    background-color: #752800;
+    background-color: #6F5949;
+}
+
+.contact {
+  color: #6F5949;
+  background-color: white !important;
 }
