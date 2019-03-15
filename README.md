@@ -1,7 +1,9 @@
 # Red line project Simon
 
 
-I redid the site [zwinrechteroever] (http://www.zwinrechteroever.be/), it's from a local history group. The problem with this site is that the styling is chaotic because there is no clear structure.
+I redid the site [zwinrechteroever](http://www.zwinrechteroever.be/), it's from a local history group. The problem with this site is that the styling is chaotic because there is no clear structure.
+
+This is my endproduct: my version of [zwinrechteroever](https://simonrijsselaere.github.io/Redline-project/index.html)
 
 ## Pages I adapted
 
