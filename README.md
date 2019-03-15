@@ -3,7 +3,7 @@
 
 I redid the site [zwinrechteroever] (http://www.zwinrechteroever.be/), it's from a local history group. The problem with this site is that the styling is chaotic because there is no clear structure.
 
-##Pages I adapted
+## Pages I adapted
 
 ### Homepage
 
